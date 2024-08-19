@@ -1,0 +1,17 @@
+langchain==0.2.14
+langchain-groq==0.1.9
+langchain-openai==0.1.21
+langchain-community==0.2.12
+langchain-experimental==0.0.64
+ipykernel==6.29.5
+python-dotenv==1.0.1
+pytube==15.0.0
+youtube-transcript-api==0.6.2
+wikipedia==1.4.0
+pypdf==4.3.1
+docx2txt==0.8
+unstructured==0.15.3
+sentence-transformers==3.0.1
+chromadb==0.4.24
+crewai==0.51.1
+crewai-tools==0.8.3
